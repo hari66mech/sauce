@@ -1,0 +1,8 @@
+class Constant:
+    LOGIN_PAGE_URL = "https://www.saucedemo.com/"
+    USER_NAME = "standard_user"
+    PASSWORD = "secret_sauce"
+    PRODUCTS_PAGE_HEADING = "PRODUCTS"
+    CART_PAGE_HEADING = "YOUR CART"
+    CHECKOUT_OVERVIEW_PAGE_HEADING = "CHECKOUT: OVERVIEW"
+    THANK_YOU_MESSAGE = "THANK YOU FOR YOUR ORDER"
